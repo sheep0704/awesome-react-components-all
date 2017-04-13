@@ -1,10 +1,6 @@
 # awesome-react-components-all
 # Karl-dujinyang
-# 奥特曼超人React
-Catalog of React components / libraries / React 学习大全
-### REACT
-
--> KARL-Dujinyang$转载
+Catalog of React components / libraries / React 学习大全 -> KARL-Dujinyang  
 
 Lang -> 2016 React动态更新
 
